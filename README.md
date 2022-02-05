@@ -11,7 +11,7 @@
 
 - 🌱 So that's where I'm at for now. I'm going to try a few online courses to begin with, in coding concepts, Python and computer science. Plus I have a "Beginners guide to Python" book that a teacher has leant me from work. Excited to start!!!!!!
 
-- 💞️ As I progress, I would love to collaberate on pretty much anything, to get a feel of what I am really into, and to realise where to go next, after Python.
+- 💞️ As I progress, I would love to collaborate on pretty much anything, to get a feel of what I am really into, and to realise where to go next, after Python.
 
 - 📫 How to reach me ... via email, pedro47.tardis@hotmail.co.uk - I am also a Whovian - "Would you like ALL the Jelly Babies" Why yes 4, I would.
 
