@@ -13,7 +13,7 @@
 - 2. Being a good beginner langauge, to refresh my knowledge of programming concepts
 - 3. They use it at the school that I work at, so I would be able to better support them while I am still working there
 
-- 🌱 So that's where I'm at for now. I'm going to try a few online courses to begin with, in coding concepts, Pyhton and computer science. Plus I have a beginners 
+- 🌱 So that's where I'm at for now. I'm going to try a few online courses to begin with, in coding concepts, Pyhton and computer science. Plus I have a beginners
 - guide to Python that a teacher has leant me from work. Excited to start!!!!!!
 
 - 💞️ As I progress, I would love to collaberate on pretty much anything, to get a feel of what I am really into, and where to go next after Python.
