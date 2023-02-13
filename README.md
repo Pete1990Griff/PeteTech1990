@@ -13,7 +13,7 @@
 
 - 💞️ As I progress, I would love to collaborate on pretty much anything, to get a feel of what I am really into, and to realise where to go next, after Python.
 
-- 📫 How to reach me ... via email, pedro47.tardis@hotmail.co.uk - I am also a Whovian - "Would you like ALL the Jelly Babies" Why yes 4, I would.
+- 📫 How to reach me ... via email, pedro47.tardis@hotmail.co.uk - "Would you like all the Jelly Babies". yes, yes I would.
 
 <!---
 PeteTech1990/PeteTech1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
