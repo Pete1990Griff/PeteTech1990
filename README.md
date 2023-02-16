@@ -2,7 +2,7 @@
 
 - I'm currently working as an IT Manager at a Secondary school, in Wales, UK and I'm currently studying Bsc Software Engineering at Coleg Cambria.
 
-- I have a little experience with coding, having done a programming module at college and having built a couple of WinForms projects myself for home and for work. I can code fairly well in C# because of this and am currently learning Python at college.
+- I have a little experience with coding, having done a programming module at college and having built a couple of WinForms projects myself for home and for work. I can code fairly well in C# because of this and am currently learning Python and HTML/CSS at college.
 
 - 👀 I’m interested in starting a new career in software development, but am unsure what sort of discipline I want to go into. At the time of writing, web development seems to be where the money is, but I'm not sure that's what I want to do. After watching a few "how to start" videos and reading some articles, I believe the best place to start will be Python. This seems to have multiple benefits, including:
 - 1. Being a language used in multiple disciplines, so I can try out a few projects in different areas
