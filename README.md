@@ -11,11 +11,7 @@
 
 - 👀 I also think a possible direction for me would be to combine what I know from SysAdmin with what I am learning in Software Engineering. I.e looking into DevOps careers and even introducing it at my current job. 
 
-- 🌱 So that's where I'm at for now. Powering through my assignments and backlog at work.
-
-- 💞️ As I progress, I would love to collaborate on pretty much anything, to get a feel of what I am really into, and to realise where to go next.
-
-- 📫 How to reach me ... via email, pedro47.tardis@hotmail.co.uk - "Would you like all the Jelly Babies". yes, yes I would.
+- 📫 How to reach me ... via email, pedro47.tardis@hotmail.co.uk
 
 <!---
 PeteTech1990/PeteTech1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
