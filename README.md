@@ -1,4 +1,4 @@
-👋 Hi, I’m Pete (@PeteTech1990)
+👋 Hi, I’m Pete (@Pete1990Griff)
 
 💻 I'm a Software Engineer based in Wales, UK, with a background in SysAdmin but with a growing passion for coding.
 
