@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @PeteTech1990 (Pete)
+👋 Hi, I’m Pete (@PeteTech1990)
 
-- I'm currently working as an IT Manager at a Secondary school, in Wales, UK and I'm currently studying Bsc Software Engineering at Coleg Cambria.
+💻 I'm a Software Engineer based in Wales, UK, with a background in SysAdmin but with a growing passion for coding.
 
-- I have a experience with coding, having done a programming modules at college and Uni, and having built solutions for home and for work. My skills including using WinForms, WPF, .Net MAUI, C#, HTML, CSS, PHP, SQL and python. 
+🎓 Currently finishing my BSc in Software Engineering at the University of Wales, Bangor. (Hopefully completed 07/2025)
 
-- 👀 I also think a possible direction for me would be to combine what I know from SysAdmin with what I am learning in Software Engineering. I.e looking into DevOps careers and even introducing it at my current job. 
+🛠️ My tech stack includes C#, .NET (WinForms, WPF, MAUI), HTML, CSS, PHP, SQL, YAML and Python. But I'm eager to give anything a go.
 
-- 📫 How to reach me ... via email, peterkeithgriffiths@gmail.com
+🔍 I'm also interested in bridging the gap between SysAdmin expertise and Software Engineering, finding ways to automate and improve workflows.
+
+🤖 Sci-fi fan and firm believer that problems can be solved with Christ-like grace, patience, and the occasional "turn it off and on again."
+
+📫 Get in touch: peterkeithgriffiths@gmail.com
+
+
 
 <!---
 PeteTech1990/PeteTech1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
